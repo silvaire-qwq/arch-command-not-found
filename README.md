@@ -5,12 +5,12 @@ Command Not Found for your Arch Linux
 > This plugin is for personal use only.<br>
 > If there is a problem,<br>
 > please create a new issue.<br>
-> I will fix it as soon as possible.
+> We will fix it as soon as possible.
 
 ## Usage
 **zinit**
 ```shell
-zinit light silvaire-qwq/arch-command-not-found
+zinit light zerospaces/arch-command-not-found
 ```
 
 ## Preview
